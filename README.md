@@ -22,7 +22,7 @@
 	<li>Customers can view ticket details in their account.</li>
 </ul>
 
-<p>Related Add-ons:&nbsp;<a href="https://github.com/magebaycom/magento-marketplace-seller-list-extension" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">Magento Marketplace Vendor/Seller List Extension</a></p>
+<p><strong>Related Add-ons:&nbsp;<a href="https://github.com/magebaycom/magento-marketplace-wepay-payment-gateway">Magento Marketplace WePay Payment Gateway</a></strong></p>
 
 <p>-----------------------------------------------------------------------------------------------------------------------------------</p>
 
@@ -31,3 +31,4 @@
 <p><em>- Contact&nbsp;us:&nbsp;<a href="mailto:info@magebay.com" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">info@magebay.com</a></em></p>
 
 <p><em>- Website:&nbsp;<a href="https://www.magebay.com/" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">https://www.magebay.com</a></em></p>
+
